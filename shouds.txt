@@ -1,0 +1,22 @@
+{
+    "RegionId": "cn-qingdao", 
+    "ExpiredTime": "2016-04-30T16:00Z", 
+    "IoOptimized": "none", 
+    "InternetChargeType": "PayByTraffic", 
+    "Description": "", 
+    "InstanceId": "i-28ykowika", 
+    "HostName": "iZ28ykowikaZ", 
+    "ClusterId": "", 
+    "ImageId": "m-28xw9k3v4", 
+    "InstanceChargeType": "PrePaid", 
+    "InstanceNetworkType": "classic", 
+    "InstanceType": "ecs.s2.large", 
+    "InternetMaxBandwidthOut": 10, 
+    "ZoneId": "cn-qingdao-b", 
+    "InstanceName": "taskwall003", 
+    "Cpu": 2, 
+    "InternetMaxBandwidthIn": -1, 
+    "SecurityGroupId": "G1037990711699178", 
+    "VlanId": "", 
+    "Memory": 4096
+}

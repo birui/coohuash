@@ -1,0 +1,22 @@
+{
+    "RegionId": "cn-qingdao", 
+    "ExpiredTime": "2999-09-08T16:00Z", 
+    "IoOptimized": "none", 
+    "InternetChargeType": "PayByBandwidth", 
+    "Description": "", 
+    "InstanceId": "i-28hohu2jk", 
+    "HostName": "iZ28hohu2jkZ", 
+    "ClusterId": "", 
+    "ImageId": "m-28xw9k3v4", 
+    "InstanceChargeType": "PostPaid", 
+    "InstanceNetworkType": "classic", 
+    "InstanceType": "ecs.s3.large", 
+    "InternetMaxBandwidthOut": 0, 
+    "ZoneId": "cn-qingdao-b", 
+    "InstanceName": "test-athena001", 
+    "Cpu": 4, 
+    "InternetMaxBandwidthIn": -1, 
+    "SecurityGroupId": "sg-28jbl529i", 
+    "VlanId": "", 
+    "Memory": 8192
+}
